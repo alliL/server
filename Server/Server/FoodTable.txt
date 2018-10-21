@@ -1,0 +1,19 @@
+41616 22nd||0||Burger
+41616 22nd||1||Medium Fries
+41616 22nd||2||Medium Drink
+41616 22nd||3||Large Drink
+41616 22nd||4||Large Fries
+41616 22nd||5||Bacon Cheese Burger
+41616 22nd||6||Big Mac
+41616 22nd||7||McFlurry
+4228 University Way NE||0||Pad Thai
+4228 University Way NE||1||Pad See Ew
+4228 University Way NE||2||Green Curry
+4228 University Way NE||3||Cashew Chicken
+4228 University Way NE||4||Pineapple Fried Rice
+4003 Stone Way N||0||Slice of Pepperoni
+4003 Stone Way N||1||Pepperoni Pie
+4003 Stone Way N||2||Slice of Cheese
+4003 Stone Way N||3||Cheese Pie
+4003 Stone Way N||4||Build your own Salad
+4003 Stone Way N||5||Build your own Calzone
