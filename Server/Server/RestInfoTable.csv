@@ -1,0 +1,29 @@
+Address,DisplayName,Capacity,TimeSlots,FoodMenu
+41616 22nd ||,McDonalds||,5||,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0","
+        ""combos"": [
+            {
+                ""items"": [0]
+				""description"": ""The standard burger""
+				""name"": ""Burger""
+                ""price"": 5.99
+            },
+            {
+                ""items"": [1]
+				""description"": ""Medium Fries""
+				""name"": ""Medium Fries""
+                ""price"": 2.99
+            },
+            {
+                ""items"": [2]
+				""description"": ""Medium Drink""
+				""name"": ""Medium Drink""
+                ""price"": 0.99
+            },
+            {
+                ""items"": [0, 1, 2]
+				""description"": ""Burger, fry, and drink combo""
+                ""name"": ""Burger Combo""
+				""price"": 8.99
+            }
+        ]
+    }"

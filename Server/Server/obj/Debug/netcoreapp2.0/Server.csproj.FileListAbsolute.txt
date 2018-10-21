@@ -1,0 +1,11 @@
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\bin\Debug\netcoreapp2.0\Server.deps.json
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.json
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.dev.json
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\bin\Debug\netcoreapp2.0\Server.pdb
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\obj\Debug\netcoreapp2.0\Server.csprojAssemblyReference.cache
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\obj\Debug\netcoreapp2.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\obj\Debug\netcoreapp2.0\Server.AssemblyInfoInputs.cache
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\obj\Debug\netcoreapp2.0\Server.AssemblyInfo.cs
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\obj\Debug\netcoreapp2.0\Server.dll
+C:\Users\poocl\Desktop\Workspace\Hobby\DubHacks\server\Server\Server\obj\Debug\netcoreapp2.0\Server.pdb
